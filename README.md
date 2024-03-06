@@ -1,1 +1,1 @@
-# photo_sotrer
+# photo_sorter
